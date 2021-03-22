@@ -7,15 +7,15 @@
   - Worked with many teams' code, primarily backend 
   - Worked on an invoicing system for business customers which was integrated with HSBC bank 
   - Traveled to help new teams ramp up
+- [Treasure Truck](https://www.amazon.com/tt/webview/aboutus)
+  - Led major scaling initiative for handling 1000x load
+  - Many external integration points - SMS, Google + Bing maps, Android + iOS devices, to name a few
 - Core Technologies: 
   - Java
   - Spring
   - HTML/CSS/JS
   - AWS
   - Many internal frameworks
-- [Treasure Truck](https://www.amazon.com/tt/webview/aboutus)
-  - Led major scaling initiative for handling 1000x load
-  - Many external integration points - SMS, Google + Bing maps, Android + iOS devices, to name a few
 
 ### Lead Member of Technical Staff @ Salesforce, 2019-Current
 - [Messaging](https://www.salesforce.com/products/service-cloud/features/livemessage/)
